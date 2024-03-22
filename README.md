@@ -12,7 +12,7 @@ Olá me chamo Genesses
 </div>
 <div >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genesses12&theme=blue-green"/>
-<img height="281em"src="https://github-readme-stats.vercel.app/api?username=Genesses12&theme=blue-green"  />
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=Genesses12&theme=blue-green"  />
 </div>
 <br/>
 <div>
