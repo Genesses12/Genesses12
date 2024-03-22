@@ -1,12 +1,12 @@
 Olá me chamo Genesses
  
 🔭 Atualmente estou me aperfeiçoando.<br/>
-🌱 Atualmente estou aprendendo Node.js<br/>
+🌱 Atualmente  aprendendo React.js<br/>
 👯 Procuro colaborar em projetos reais<br/>
-💬 Pergunte-me sobre qualquer coisa :D<br/>
+💬 Pergunte-me sobre qualquer coisa<br/>
  
 <div>
-  -Desenvolvedor em formação o/<br/>
+  -Desenvolvedor<br/>
 </div>
 <br/>
 </div>
