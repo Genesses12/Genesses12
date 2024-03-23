@@ -44,6 +44,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Genesses-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/genessesfernandes/))
+[![Linkedin](https://img.shields.io/badge/-Genesses-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/genessesfernandes/)
 [![Gmail Badge](https://img.shields.io/badge/-genesses12@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](genesses12@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Genesses12?label=follow&style=social)](https://github.com/Genesses12)
