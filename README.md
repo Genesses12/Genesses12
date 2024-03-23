@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Superior em tecnologia em analise e desenvolvimento de sistemas.
-- 💼 Procurando minha primeira oportunidade.
+- 🎓 Cursando Superior em tecnologia em analise e desenvolvimento de sistemas.
+- 💼 Procurando uma oportunidade para desenvolver minhas habilidades.
 - 🌱 Aprendendo mais sobre Desenvolvimento web.
 
 ## Minhas Skills
