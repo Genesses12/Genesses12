@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando Superior em tecnologia em analise e desenvolvimento de sistemas 4° semestre.
-- 🎓 Cursando tecnologia em sistemas para internet 1° semestre
+- 🎓 concluido Superior em tecnologia em analise e desenvolvimento de sistemas.
+- 🎓 Cursando tecnologia em sistemas para internet 2° semestre
 - 💼 Procurando uma oportunidade para desenvolver minhas habilidades.
 - 🌱 Aprendendo mais sobre Desenvolvimento.
 
