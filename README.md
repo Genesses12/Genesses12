@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 concluido Superior em tecnologia em analise e desenvolvimento de sistemas.
+- 🎓 Superior em tecnologia em analise e desenvolvimento de sistemas - concluido 2025.
 - 🎓 Cursando tecnologia em sistemas para internet 2° semestre
 - 💼 Procurando uma oportunidade para desenvolver minhas habilidades.
 - 🌱 Aprendendo mais sobre Desenvolvimento.
