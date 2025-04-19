@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Genesses12&color=006bed)
+![](https://komarev.com/ghpvc/?username=Genesses12-temp&color=006bed)
 
 ## Sobre mim
 
